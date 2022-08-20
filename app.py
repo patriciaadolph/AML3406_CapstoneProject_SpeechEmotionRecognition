@@ -2,6 +2,7 @@ from ast import main
 # from asyncio.windows_events import NULL
 import streamlit as st
 import audio_processing as ap
+from pydub import AudioSegment
 
 import warnings
 warnings.filterwarnings("ignore")
