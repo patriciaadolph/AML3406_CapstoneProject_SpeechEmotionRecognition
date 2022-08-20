@@ -1,8 +1,7 @@
 audio-processing==0.0.1
 audioread==2.1.9
-cachetools==4.2.2
-catalogue==2.0.6
 h5py==3.1.0
+ipython==7.25.0
 matplotlib==3.5.2
 matplotlib-inline==0.1.2
 numba==0.55.2
