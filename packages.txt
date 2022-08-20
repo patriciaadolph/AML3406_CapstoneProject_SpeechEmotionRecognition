@@ -1,2 +1,4 @@
 portaudio19-dev
-python-pyaudio
+libc6
+libportaudio2
+python3-pyaudio
