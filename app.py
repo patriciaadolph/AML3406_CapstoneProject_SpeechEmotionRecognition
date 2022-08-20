@@ -18,7 +18,7 @@ import sounddevice as sd
 import wavio
 from ml import process_audio_model
 
-project_root = dirname(dirname(__file__))
+project_root = os.path.join( dirname(dirname(__file__)),'AML3406_CapstoneProject_SpeechEmotionRecognition')
 
 #manu code
 NULL = 0

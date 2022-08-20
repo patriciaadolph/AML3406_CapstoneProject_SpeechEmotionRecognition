@@ -44,7 +44,7 @@ import wavio
 def __init__(self):
     return
 
-project_root = dirname(dirname(__file__))
+project_root = os.path.join( dirname(dirname(__file__)),'AML3406_CapstoneProject_SpeechEmotionRecognition')
 
 def process_audio_model(path):
             data, sampling_rate = librosa.load(path)
