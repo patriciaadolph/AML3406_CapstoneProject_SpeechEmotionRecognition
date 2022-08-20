@@ -56,7 +56,6 @@ prompt-toolkit==3.0.30
 protobuf
 psutil==5.9.1
 pure-eval==0.2.2
-PyAudio==0.2.12
 pyarrow==9.0.0
 pycparser==2.21
 pydeck==0.7.1
