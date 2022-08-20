@@ -53,6 +53,7 @@ prompt-toolkit==3.0.30
 protobuf==3.20.1
 psutil==5.9.1
 pure-eval==0.2.2
+PyAudio==0.2.12
 pyarrow==9.0.0
 pycparser==2.21
 pydeck==0.7.1
@@ -93,4 +94,3 @@ watchdog==2.1.9
 wcwidth==0.2.5
 widgetsnbextension==4.0.2
 zipp==3.8.1
-sudo apt-get install python-pyaudio
