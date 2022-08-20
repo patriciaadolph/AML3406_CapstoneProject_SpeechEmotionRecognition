@@ -11,6 +11,9 @@ import os
 from os.path import dirname, join
 import streamlit as st
 
+# to play the audio files
+from IPython.display import Audio
+
 import sounddevice as sd
 import wavio
 from ml import process_audio_model
