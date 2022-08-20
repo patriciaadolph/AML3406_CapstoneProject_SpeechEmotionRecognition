@@ -1,5 +1,5 @@
 from ast import main
-from asyncio.windows_events import NULL
+# from asyncio.windows_events import NULL
 import streamlit as st
 import audio_processing as ap
 
@@ -17,6 +17,7 @@ from ml import process_audio_model
 project_root = dirname(dirname(__file__))
 
 #manu code
+NULL = 0
 data=NULL;
 sampling_rate=NULL;
 def save_uploadedfile(uploadedfile):
